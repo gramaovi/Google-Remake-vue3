@@ -8,7 +8,11 @@
     <a href="#">
       <img class="menu-photo" src="../assets/Google-Apps.png">
     </a>
+    <a href="#">
+      <img class="avatar-photo" src="../assets/Google-Avatar.png">
+    </a>
    </div>
+   
   </div>
 </template>
 
