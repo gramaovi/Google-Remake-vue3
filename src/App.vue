@@ -3,6 +3,7 @@
   </div>
   <Header></Header>
   <Google_content></Google_content>
+  <Footer></Footer>
 
 </template>
 
@@ -10,6 +11,7 @@
 //import HelloWorld from './components/HelloWorld.vue'
 import Header from './components/Header.vue'
 import Google_content from './components/Content.vue'
+import Footer from './components/Footer.vue'
 
 
 export default {
@@ -17,6 +19,7 @@ export default {
   components: {
     Header,
     Google_content,
+    Footer
  
   }
 }
