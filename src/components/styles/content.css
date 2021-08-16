@@ -171,11 +171,28 @@ outline:none;
 }
 .languages
 {
+    
+    font-family: arial,sans-serif;
     position:absolute;
-    background:purple;
-    top:80%;
+    font-size: small;
+    top:57%;
    
-    left:25%;
-    right:25%;
+    left:329px;
+    
+   
     height: 8%;
+}
+.languages a
+{
+    
+    font-family: arial,sans-serif;
+    font-size: small;
+    text-decoration: none;
+    color:#1a0dab;
+    padding:8px;
+    
+}
+.languages a:hover
+{
+    text-decoration: underline;
 }

@@ -28,6 +28,17 @@
             </div>
         </div>
         <div class="languages">
+            <p >Google offered in:
+                <a href="#">Romana</a>
+                <a href="#">English</a>
+                <a href="#">Magyar</a></p>
+
+
+
+
+         
+           
+          
         </div>
     </div>
   

@@ -9,13 +9,15 @@
 }
 .items{
   position:absolute;
-  right:125px;
+  right:120px;
   height: 100%;
   top:0px;
 }
 .hrefs a{
+  font-size:13px;
+  font-family: arial,sans-serif;
  position:relative;
- padding:10px;
+ padding:15px;
  top:22px;
  text-decoration: none;
  color:black;
@@ -30,8 +32,8 @@
 .avatar-photo
 { 
   position:absolute;
-  width: 40px;
-  top:11px;
+  width: 35px;
+  top:14px;
   left:200px;
   border-radius: 40px;
 }
